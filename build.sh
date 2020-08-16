@@ -1,1 +1,1 @@
-docker build -t vmartinvega/fluentd-kubernetes-daemonset:v1-debian-http .
+docker build -t vmartinvega/fluentd-kubernetes-http:v1-debian .
